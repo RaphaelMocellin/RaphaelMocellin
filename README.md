@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About Me
+## About Me
+
 I am a former employee in the oil and gas sector, changing my career through studies in
 programming.
 I have approximately 10 years of experience in the field of oil and gas pipeline inspection,
@@ -21,6 +22,7 @@ with dozens of successful professional trips.
 Today I dedicate myself to learning how to code, studying: javascript, HTML, CSS, Nodejs,
 Express, Mongo DB and React.
 
-Contact Me
-Email: raphael.mocellin@gmail.com
-LinkedIn: https://www.linkedin.com/in/raphael-mocellin/
+## Contact Me
+
+- Email: raphael.mocellin@gmail.com
+- LinkedIn: https://www.linkedin.com/in/raphael-mocellin/
