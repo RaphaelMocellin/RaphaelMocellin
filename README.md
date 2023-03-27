@@ -1,4 +1,6 @@
-### You can call me Rapha! 👋
+<div align="center">
+
+  ### <h1>You can call me Rapha! 👋</h1>
 
 <!--
 **RaphaelMocellin/RaphaelMocellin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-## About Me
 
 I am a former employee in the oil and gas sector, changing my career through studies in
 programming.
@@ -40,3 +40,4 @@ Express, Mongo DB and React.
 
 - Email: raphael.mocellin@gmail.com
 - LinkedIn: https://www.linkedin.com/in/raphael-mocellin/
+  </div>
